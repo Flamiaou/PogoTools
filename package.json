@@ -1,0 +1,32 @@
+{
+  "name": "discord-chat-bot",
+  "version": "1.0.0",
+  "description": "Discord Chat Bot that can be used in Discord servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiDraco/discord-chat-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiDraco/discord-chat-bot/issues"
+  },
+  "homepage": "https://github.com/LiDraco/discord-chat-bot#readme",
+  "dependencies": {
+    "discord-player": "^3.4.0",
+    "discord.js": "^11.6.4",
+    "distube": "^2.8.12",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "ffmpeg-static": "^4.3.0",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "dotenv": "^8.0.0"
+  }
+}
