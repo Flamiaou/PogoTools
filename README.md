@@ -20,7 +20,7 @@ Create a new bot and find the bot token.
 **Be sure not to share the token** as sharing the token will allow other people to control your bot.
 
 ```
-Listes des commandes
+Listes des commandes ( les commande se mettent a jour
 ```
 ```
                                                                                                                                       
@@ -44,6 +44,6 @@ Listes des commandes
 
 • tr.echange ➡ coût de poussiere d'étoile pour les échange pokémon. 
 
-Bot crée par JØRDAN#5335 pour le serveur Team Raid | Pokémon Go France   
+Bot crée par JØRDAN#5335   
 
 ```
