@@ -23,6 +23,6 @@ Listes des commandes
 
 • tr.echange ➡ coût de poussiere d'étoile pour les échange pokémon. 
 
-Bot crée par JØRDAN#5335 pour le serveur Team Raid | Pokémon Go France   
+Bot crée par JØRDAN#5335 'PogoTools'
 
 ```
